@@ -55,20 +55,22 @@ Bergabunglah di [Group](https://t.me/ZeroBotSupport) Jika Anda ingin Melaporkan 
 Saya di sini untuk membuat pengelolaan grup Anda menyenangkan dan mudah!
 Saya memiliki banyak fitur praktis ☺️ seperti:
 
-• Anime
-• Pengendalian flood.
-• Sistem penyimpanan Note.
-• Sistem Warning.
+• Anime.                                        • Sistem penyimpanan Note.
+• Pengendalian flood.        • Wallpaper.
+• Sistem Warning.                 • Dll.
 
-*Dikelolah oleh ❤️:* [Hayaka Ryu](https://t.me/HayakaRyu)
+*Dikelola dengan ❤️ oleh :* [Zero](https://t.me/Anomaliii)
 
-Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!
+Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!!
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Tambahkan Saya ke Grup 👥", url="t.me/KagaRobot?startgroup=true"
+            text="Tambahkan Saya ke Grup 👥", url="t.me/EveRobotDesu?startgroup=true"
+        ),
+        InlineKeyboardButton(
+            text="Gban Logs 🚫", url="https://t.me/zerobotlog"
         ),
     ]
 ]
@@ -79,22 +81,10 @@ buttons += [
         InlineKeyboardButton(
             text="Help & Commands ❔",
             url=f"t.me/{dispatcher.bot.username}?start=help",
-        ),
-        InlineKeyboardButton(
-            text="Gban Logs 🚫", url="https://t.me/joinchat/AAAAAEuYErj6v8_DOigW0g"
-        ),
         
-    ]
-]
-
-buttons += [
-    [
+        ),
         InlineKeyboardButton(
             text="Support 🎗️", url="https://t.me/ZeroBotSupport"
-        ),
-        InlineKeyboardButton(
-            text="Channel 📢", url="https://t.me/HayakaRyuUpdates"
-        ),
     ]
 ]
 
@@ -272,7 +262,7 @@ def start(update, context):
 
         else:
             update.effective_message.reply_photo(
-                "https://telegra.ph/file/ef0c265be939ec29bb53c.jpg",
+                "https://telegra.ph/file/5fd46c0d832a86b225af9.jpg",
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
