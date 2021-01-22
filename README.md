@@ -1,4 +1,4 @@
-# Kaga Robot
+# Eve
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/HayakaRyu/)
@@ -7,14 +7,14 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8bfae649db3742a883e0ac1008755db3)](https://www.codacy.com/gh/HayakaRyu/KagaRobot/dashboard?utm_source=github.com&utm_medium=referral&utm_content=HayakaRyu/KagaRobot&utm_campaign=Badge_Grade)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/HayakaRyu/KagaRobot/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/HayakaRyu/KagaRobot/graphs/commit-activity)
-![Logo](https://telegra.ph/file/6cb06b87a648599b081d3.png)
+![Logo](https://telegra.ph/file/5fd46c0d832a86b225af9.jpg)
 
 Bot Python telegram modular yang berjalan di python3 dengan database sqlalchemy.
 
 Awalnya bot manajemen grup sederhana dengan beberapa fitur admin, itu telah berkembang, menjadi sangat modular dan
 mudah digunakan. Perhatikan bahwa proyek ini menggunakan bot Telegram terkenal pada masanya @BanhammerMarie_bot dari Paul Larson sebagai basisnya.
 
-Dapat ditemukan di telegram sebagai [Kaga](https://t.me/KagaRobot).
+Dapat ditemukan di telegram sebagai [Eve](https://t.me/EveDesuBot).
 
 Bergabunglah dengan [Dukungan Grup](https://t.me/ZeroBotSupport) jika Anda hanya ingin mengikuti info terbaru tentang fitur atau pengumuman baru.
 
