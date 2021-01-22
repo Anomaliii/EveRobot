@@ -106,6 +106,9 @@ def last_fm(update, context):
         scrobbles = last_user.get("playcount")
         rep += f"\n(<code>{scrobbles}</code> scrobbles so far)"
 
+   buttons = InlineKeyboardMarkup(
+        [[InlineKeyboardButton("📺 Youtube", url=f'https://www.youtube.com/results?search_query={artist}+-+{song}')]]
+        )
     send = msg.reply_text(rep, parse_mode=ParseMode.HTML)
     time.sleep(60)
     try:
