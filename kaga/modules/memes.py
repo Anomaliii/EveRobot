@@ -585,16 +585,16 @@ Beberapa meme untuk bersenang-senang atau apa pun!
  × /warm: Peluk pengguna dengan hangat, atau peluk jika bukan balasan.
  × /punch: Pukul pengguna, atau dapatkan pukulan jika bukan balasan.
  × /police: Berikan Animasi sirene Polisi
- × thonkify: Membuat text thonkify
+ × /thonkify: Membuat text thonkify
 
 *Meme berbasis regex:*
 
-`/decide` bisa juga digunakan dengan regex jika suka: `kaga Apa? <pertanyaan>: menjawab acak "Yes, No" dll.`
+`/decide` bisa juga digunakan dengan regex jika suka: `eve Apa? <pertanyaan>: menjawab acak "Yes, No" dll.`
 
 Beberapa filter regex lainnya adalah:
 `saya juga` | `selamat pagi` | `selamat malam`.
 
-KagaRobot akan membalas string acak sesuai saat kata-kata ini digunakan!
+EveRobot akan membalas string acak sesuai saat kata-kata ini digunakan!
 Semua filter regex dapat dinonaktifkan jika Anda tidak ingin ... suka: `/disable sayajuga`.
 
 """
