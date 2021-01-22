@@ -55,9 +55,9 @@ Bergabunglah di [Group](https://t.me/ZeroBotSupport) Jika Anda ingin Melaporkan 
 Saya di sini untuk membuat pengelolaan grup Anda menyenangkan dan mudah!
 Saya memiliki banyak fitur praktis ☺️ seperti:
 
-• Anime.                                        • Sistem penyimpanan Note.
+• Anime.                                    • Sistem penyimpanan Note.
 • Pengendalian flood.        • Wallpaper.
-• Sistem Warning.                 • Dll.
+• Sistem Warning.                • Dan Masih Banyak.
 
 *Dikelola dengan ❤️ oleh :* [Zero](https://t.me/Anomaliii)
 
@@ -67,7 +67,7 @@ Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!!
 buttons = [
     [
         InlineKeyboardButton(
-            text="Tambahkan Saya ke Grup 👥", url="t.me/EveRobotDesu?startgroup=true",
+            text="Tambahkan ke Grup 👥", url="t.me/EveRobotDesu?startgroup=true",
         ),
         InlineKeyboardButton(
             text="Gban Logs 🚫", url="https://t.me/zerobotlog"
