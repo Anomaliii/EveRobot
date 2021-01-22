@@ -67,7 +67,7 @@ Ingin menambahkan saya ke grup Anda? Cukup klik tombol di bawah!!
 buttons = [
     [
         InlineKeyboardButton(
-            text="Tambahkan Saya ke Grup 👥", url="t.me/EveRobotDesu?startgroup=true"
+            text="Tambahkan Saya ke Grup 👥", url="t.me/EveRobotDesu?startgroup=true",
         ),
         InlineKeyboardButton(
             text="Gban Logs 🚫", url="https://t.me/zerobotlog"
@@ -85,6 +85,7 @@ buttons += [
         ),
         InlineKeyboardButton(
             text="Support 🎗️", url="https://t.me/ZeroBotSupport"
+        ),
     ]
 ]
 
