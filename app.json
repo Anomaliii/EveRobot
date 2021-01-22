@@ -1,5 +1,5 @@
 {
-      "name": "KagaRobot",
+      "name": "EveRobot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Kaga"
       ],   
-   "repository": "https://github.com/HayakaRyu/KagaRobot",
+   "repository": "https://github.com/Anomaliii/EveRobot",
    "addons": [
       {
          "options": {
@@ -40,7 +40,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "HayakaRyu"
+         "value": "Anomaliii"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
